@@ -6,14 +6,18 @@
 
 ## Design Phases
 
-* [Ecosystem Exploration](ecosystem-exploration.md)
-* [Platform Synthesis](platform-synthesis.md)
-* [Platform Development](platform-development.md)
+* [Ecosystem Exploration](design-phases/ecosystem-exploration.md)
+* [Platform Synthesis](design-phases/platform-synthesis.md)
+* [Platform Development](design-phases/platform-development.md)
 
 ## Design Artefacts
 
+* [Ecosystem Awareness](design-artefacts/ecosystem-awareness.md)
+* [Ecosystem Dynamics](design-artefacts/ecosystem-dynamics.md)
+* [Platforming Pattern](design-artefacts/platforming-pattern.md)
+
 ## Appendix
 
-* [Glossary](glossary.md)
-* [References](references.md)
+* [Glossary](appendix/glossary.md)
+* [References](appendix/references.md)
 
