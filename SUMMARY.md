@@ -1,6 +1,7 @@
 # Table of contents
 
-* [What is FAST Design?](README.md)
+* [Preface](README.md)
+* [Introduction](the-platform-design-oxymoron.md)
 
 ## Platforming Process
 
