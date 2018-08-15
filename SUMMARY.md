@@ -4,8 +4,8 @@
 
 ## Design Process
 
-* [Emergent Complexity](design-process/emergent-complexity.md)
-* [Infinitely Recursive](design-process/infinitely-recursive.md)
+* [Diffuse Design](design-process/diffuse-design.md)
+* [Recursive Process](design-process/recursive-process.md)
 
 ## Design Phases
 
