@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Preface](README.md)
-* [Introduction](introduction.md)
 
 ## Design Process
+
+## Design Phases
 
 * [Ecosystem Exploration](ecosystem-exploration.md)
 * [Platform Synthesis](platform-synthesis.md)
