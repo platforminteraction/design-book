@@ -4,6 +4,9 @@
 
 ## Design Process
 
+* [Emergent Complexity](design-process/emergent-complexity.md)
+* [Infinitely Recursive](design-process/infinitely-recursive.md)
+
 ## Design Phases
 
 * [Ecosystem Exploration](design-phases/ecosystem-exploration.md)
