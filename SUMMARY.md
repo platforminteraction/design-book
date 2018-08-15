@@ -1,9 +1,9 @@
 # Table of contents
 
 * [Preface](README.md)
-* [Introduction](the-platform-design-oxymoron.md)
+* [Introduction](introduction.md)
 
-## Platforming Process
+## Design Process
 
 * [Ecosystem Exploration](ecosystem-exploration.md)
 * [Platform Synthesis](platform-synthesis.md)
