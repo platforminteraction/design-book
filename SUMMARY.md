@@ -21,6 +21,8 @@
 
 ## Appendix
 
-* [Glossary](appendix/glossary.md)
+* [Glossary](appendix/glossary/README.md)
+  * [E](appendix/glossary/e.md)
+  * [P](appendix/glossary/p.md)
 * [References](appendix/references.md)
 
