@@ -4,6 +4,8 @@
 
 **Platform** _-_ A business model that connects _Entities_ and facilitates the value-creating exchanges between them, mediated by software for scale, scope and speed.
 
+**Platforming** - The transformation of \(a part of\) an existing, conventional organisation into a _Platform_.
+
 **Platform Design** - The activity of planning and executing for _Ecosystem Mobilisation_ by means of a _Platform_.
 
 **Platform Narrative** - The positive, galvanising message that [answers](http://www.marketingjournal.org/the-power-of-company-narratives-john-hagel/) to _Entities_ why they should join the _Platform_, what they will be able to accomplish in doing so and how they should connect for this to happen. 
