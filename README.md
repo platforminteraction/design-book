@@ -1,3 +1,7 @@
+---
+description: Draft 4
+---
+
 # Preface
 
 FAST is a framework for [platforming](https://design.platforminteraction.com/appendix/glossary/p). It pairs exploration of platforming opportunities with their development into scalable businesses.
@@ -14,11 +18,13 @@ Of course, learning on these topics by working through the FAST framework _may_ 
 
 ## Acknowledgement
 
-The one identifying aspect to FAST is how it aggregates existing knowledge, tools and practices. It is a true product of the work from many in the fields of strategic planning, service design and agile software development.
+A notable aspect of FAST is it aggregating existing knowledge, tools and practices. It is a true product of the work from many in the fields of strategic planning, service design and agile software development. 
 
-[Platform Design Toolkit](https://platformdesigntoolkit.com/) is especially instrumental in the ongoing gestation of FAST. It figures front and centre in the [Synthesis phase](design-phases/platform-synthesis.md), which also takes many an insight from the Toolkit's [masterclass](https://platformdesigntoolkit.com/public-masterclass/) and [newsletter](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881).
+[Platform Design Toolkit](https://platformdesigntoolkit.com/) has been instrumental in the gestation of FAST. It figures front and centre in the [Synthesis phase](design-phases/platform-synthesis.md), which also takes many insights from the Toolkit's [masterclass](https://platformdesigntoolkit.com/public-masterclass/) and [newsletter](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881).
 
-[Jesse Grimes](https://www.linkedin.com/in/jessegrimes/) opened the door for framing service design in a context of emergence. The resulting [presentation at SDGC 2017](https://speakerdeck.com/absynthmind/platform-ecosystems-designing-for-potential-sdgc-2017) lit the fire under FAST.
+[Jesse Grimes](https://www.linkedin.com/in/jessegrimes/) opened the door for framing service design in a context of [emergence](https://design.platforminteraction.com/appendix/glossary/e). The resulting [presentation at SDGC 2017](https://speakerdeck.com/absynthmind/platform-ecosystems-designing-for-potential-sdgc-2017) lit the fire under FAST.
+
+[Abhimanyu Bhardwaj](https://www.linkedin.com/in/bhardwajabhimanyu/) not only [saved design thinking](https://www.linkedin.com/pulse/how-i-plan-save-design-thinking-abhimanyu-bhardwaj/) from itself. His _Tris_ framework helped FAST in making at last the design-development leap.
 
 ## Acronym
 
