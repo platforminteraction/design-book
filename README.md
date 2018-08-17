@@ -24,7 +24,7 @@ A notable aspect of FAST is it aggregating existing knowledge, tools and practic
 
 [Jesse Grimes](https://www.linkedin.com/in/jessegrimes/) opened the door for framing service design in a context of [emergence](https://design.platforminteraction.com/appendix/glossary/e). The resulting [presentation at SDGC 2017](https://speakerdeck.com/absynthmind/platform-ecosystems-designing-for-potential-sdgc-2017) lit the fire under FAST.
 
-[Abhimanyu Bhardwaj](https://www.linkedin.com/in/bhardwajabhimanyu/) not only [saved design thinking](https://www.linkedin.com/pulse/how-i-plan-save-design-thinking-abhimanyu-bhardwaj/) from itself. His _Tris_ framework helped FAST in making at last the design-development leap.
+[Abhimanyu Bhardwaj](https://www.linkedin.com/in/bhardwajabhimanyu/) not only [saved design thinking](https://www.linkedin.com/pulse/how-i-plan-save-design-thinking-abhimanyu-bhardwaj/) from itself. His _Tris_ framework also helped FAST in making the design-development leap.
 
 ## Acronym
 
