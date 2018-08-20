@@ -1,2 +1,2 @@
-# Platform Synthesis
+# Synthesise
 

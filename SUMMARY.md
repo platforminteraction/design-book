@@ -4,14 +4,14 @@
 
 ## Design Process
 
-* [Diffuse Design](design-process/diffuse-design.md)
-* [Recursive Process](design-process/recursive-process.md)
+* [FAST Triangle](design-process/triangle.md)
+* [Infinite Iteration](design-process/diffuse-design.md)
 
 ## Design Phases
 
-* [Ecosystem Exploration](design-phases/ecosystem-exploration.md)
-* [Platform Synthesis](design-phases/platform-synthesis.md)
-* [Platform Development](design-phases/platform-development.md)
+* [Explore](design-phases/ecosystem-exploration.md)
+* [Synthesise](design-phases/platform-synthesis.md)
+* [Develop](design-phases/platform-development.md)
 
 ## Design Artefacts
 
