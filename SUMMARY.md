@@ -4,8 +4,8 @@
 
 ## Design Process
 
-* [Three Phases of Design](design-process/triangle.md)
-* [Infinite Iteration](design-process/diffuse-design.md)
+* [Phases](design-process/triangle.md)
+* [Iteration](design-process/diffuse-design.md)
 
 ## Design Phases
 
