@@ -1,10 +1,10 @@
-# FAST Triangle
+# Three Phases of Design
 
-The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. There is no such breadth of control in platform design. It's the platform participants that solve the problems in self-organised and self-optimised interactions. The platform designer sets the interfaces, processes and conditions for these interactions to happen, not able to predict the exact outcomes.
+The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. In platform design, the control of value creation shifts to the participants. It's them that are solving problems in self-organised and self-optimised interactions. The designer gets to set the interfaces, processes and conditions for these interactions to happen, but cannot predict their exact outcomes.
 
-FAST promotes prototyping to explore and test interactions, and highlight opportunities and challenges. It is part of a continuous design process of building relations with the diverse participants. The design itself is an open-ended structure, acting as a device for prototyping. It guides in deciding what, where and how to build and test. The developed tests refine and corroborate ever higher fidelity iterations of the design.
+FAST promotes prototyping to explore and test interactions, and highlight opportunities and challenges. It is the cornerstone of a continuous design process of building understanding of the diverse participants. The platform design itself is an open-ended structure, acting as a device for prototyping. It guides in deciding what, where and how to build and test. The developed tests refine and corroborate ever higher fidelity in iterations of these models.
 
-Moving around FAST is to frame a platform's design from exploration, and challenge it in front the participants to improve the understanding of its true nature:
+Moving around FAST is to frame a platform's design with exploration, and challenge it in front the participants to improve the understanding of its true nature:
 
 ![FAST Triangle](../.gitbook/assets/triangle-2x.png)
 

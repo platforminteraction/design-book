@@ -4,7 +4,7 @@
 
 ## Design Process
 
-* [FAST Triangle](design-process/triangle.md)
+* [Three Phases of Design](design-process/triangle.md)
 * [Infinite Iteration](design-process/diffuse-design.md)
 
 ## Design Phases
