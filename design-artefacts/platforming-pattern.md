@@ -1,2 +1,2 @@
-# Platforming Pattern
+# Pattern
 

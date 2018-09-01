@@ -4,8 +4,9 @@
 
 ## Design Process
 
-* [Phases](design-process/triangle.md)
+* [Phases](design-process/phases.md)
 * [Iteration](design-process/diffuse-design.md)
+* [Execution](design-process/execution.md)
 
 ## Design Phases
 
@@ -15,14 +16,11 @@
 
 ## Design Artefacts
 
-* [Ecosystem Awareness](design-artefacts/ecosystem-awareness.md)
-* [Ecosystem Dynamics](design-artefacts/ecosystem-dynamics.md)
-* [Platforming Pattern](design-artefacts/platforming-pattern.md)
+* [Awareness](design-artefacts/ecosystem-awareness.md)
+* [Pattern](design-artefacts/platforming-pattern.md)
 
 ## Appendix
 
-* [Glossary](appendix/glossary/README.md)
-  * [E](appendix/glossary/e.md)
-  * [P](appendix/glossary/p.md)
+* [Glossary](appendix/glossary.md)
 * [References](appendix/references.md)
 
