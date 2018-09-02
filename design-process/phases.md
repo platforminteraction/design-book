@@ -10,9 +10,9 @@ Design Thinking draws from the designer's toolbox for non-typical design context
 
 The process is non-prescriptive and its three phases are wholly complementary. Each phase feeds into the next, and each sets clear boundaries for the others. Each phase also leverages a different and established discipline: 
 
-* [Strategic Design](https://en.wikipedia.org/wiki/Strategic_design) **to explore** internal resources and capabilities, and external trends and forces.
-* [Service Design](https://en.wikipedia.org/wiki/Service_design) __**to synthesise** a point of view with qualitative research and ideation techniques. 
-* \_\_[Customer Development](https://en.wikipedia.org/wiki/Customer_development) **to develop** solutions in search of a repeatable and scalable platform business.
+* [Strategic Design](https://en.wikipedia.org/wiki/Strategic_design) to explore internal resources and capabilities, and external trends and forces.
+* [Service Design](https://en.wikipedia.org/wiki/Service_design) __to synthesise a point of view with qualitative research and ideation techniques. 
+* \_\_[Customer Development](https://en.wikipedia.org/wiki/Customer_development) to develop solutions in search of a repeatable and scalable platform business.
 
 The clear separation of phases allows for this usage without atom-smashing the disciplines into one [convoluted](https://www.researchgate.net/figure/Suggested-model-of-lean-design-thinking-Adaption-and-merging-of-promising-aspects-of_fig2_234066097), [confused](https://cdn-images-1.medium.com/max/1600/1*St0mcTsgm7l_onVGFJUK5Q.png) process. This is a key and discerning advantage of FAST.
 
