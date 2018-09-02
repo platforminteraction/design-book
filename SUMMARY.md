@@ -23,4 +23,5 @@
 
 * [Glossary](appendix/glossary.md)
 * [References](appendix/references.md)
+* [Changelog](appendix/changelog.md)
 

@@ -1,5 +1,5 @@
 ---
-description: Draft 6
+description: Draft 7
 ---
 
 # Preface
@@ -32,7 +32,7 @@ A notable aspect of FAST is it aggregating existing knowledge, tools and practic
 
 [Platform Design Toolkit](https://platformdesigntoolkit.com/) has been instrumental in the gestation of FAST. It figures front and centre in the [Synthesise phase](design-phases/platform-synthesis.md), which also takes many insights from the Toolkit's [masterclasses](https://platformdesigntoolkit.com/public-masterclass/) and [newsletters](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881).
 
-[Sangeet Paul Choudary's](https://www.linkedin.com/in/sangeetpaul/) [Platform Scale](https://www.amazon.com/Platform-Scale-emerging-business-investment-ebook/dp/B015FAOKJ6) set the template for a systems oriented approach to platform design.
+[Sangeet Paul Choudary's](https://www.linkedin.com/in/sangeetpaul/) [Platform Scale](https://www.amazon.com/Platform-Scale-emerging-business-investment-ebook/dp/B015FAOKJ6) set the template for a systems oriented approach to platforming.
 
 ## Attribution & Contribution
 
