@@ -1,8 +1,11 @@
-# Synthesise
+---
+description: >-
+  Syntesise actionable insights from the data gathered. Identify reoccurring
+  problems, expose unexpressed needs and uncover sought after convenience.
+  Capture and prioritise these in a platform model.
+---
 
-{% hint style="info" %}
-**Syntesise** actionable insights from the data gathered. Identify reoccurring problems, expose unexpressed needs and uncover sought after convenience. Capture and prioritise these in a platform model.
-{% endhint %}
+# Synthesise
 
 The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. In contrast, platforms shift the control of value creation towards the [participants](../../appendix/glossary.md#p). It's them that are solving problems in self-organised and self-optimised interactions. Platform designers cannot predict nor prescribe such interactions. They can only set the interfaces, processes and conditions for interactions to happen. 
 
