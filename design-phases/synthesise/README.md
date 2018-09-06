@@ -1,6 +1,6 @@
 ---
 description: >-
-  Syntesise actionable insights from the data gathered. Identify reoccurring
+  Synthesise actionable insights from the data gathered. Identify reoccurring
   problems, expose unexpressed needs and uncover sought after convenience.
   Capture and prioritise these in a platform model.
 ---
