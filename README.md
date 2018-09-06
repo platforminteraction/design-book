@@ -1,5 +1,5 @@
 ---
-description: Draft 7
+description: Draft 9
 ---
 
 # Preface
@@ -8,7 +8,7 @@ FAST is a framework for [platforming](appendix/glossary.md#p). It pairs explorat
 
 There is no shortage in publications on [platforms](appendix/glossary.md#p) and their socio-economic impact. While these for sure help in understanding why and what of platforms, how to build and evolve one is much less covered.
 
-FAST addresses these concerns in an iterative process of platforming. It'll take you from exploring a fuzzy hunch of opportunity all the way to running a scaled platform business —and back.
+FAST addresses these concerns in an iterative process of platforming. It'll take you from exploring a fuzzy hunch of opportunity all the way to running a scaled platform business—and back.
 
 ## Audience
 
@@ -30,7 +30,7 @@ A notable aspect of FAST is it aggregating existing knowledge, tools and practic
 
 [Jesse Grimes](https://www.linkedin.com/in/jessegrimes/) opened the door for framing service design in a context of [emergence](https://design.platforminteraction.com/appendix/glossary/e). The resulting [presentation at SDGC 2017](https://speakerdeck.com/absynthmind/platform-ecosystems-designing-for-potential-sdgc-2017) lit the fire under FAST.
 
-[Platform Design Toolkit](https://platformdesigntoolkit.com/) has been instrumental in the gestation of FAST. It figures front and centre in the [Synthesise phase](design-phases/platform-synthesis.md), which also takes many insights from the Toolkit's [masterclasses](https://platformdesigntoolkit.com/public-masterclass/) and [newsletters](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881).
+[Platform Design Toolkit](https://platformdesigntoolkit.com/) has been instrumental in the gestation of FAST. It figures front and centre in the [Synthesise phase](design-phases/synthesise/), which also takes many insights from the Toolkit's [masterclasses](https://platformdesigntoolkit.com/public-masterclass/) and [newsletters](https://us11.campaign-archive.com/home/?u=e272a9d50c52efb331777c60a&id=b0460ae881).
 
 [Sangeet Paul Choudary's](https://www.linkedin.com/in/sangeetpaul/) [Platform Scale](https://www.amazon.com/Platform-Scale-emerging-business-investment-ebook/dp/B015FAOKJ6) set the template for a systems oriented approach to platforming.
 

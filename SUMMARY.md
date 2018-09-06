@@ -5,14 +5,19 @@
 ## Design Process
 
 * [Phases](design-process/phases.md)
-* [Iteration](design-process/diffuse-design.md)
+* [Iteration](design-process/iteration.md)
 * [Execution](design-process/execution.md)
 
 ## Design Phases
 
-* [Explore](design-phases/ecosystem-exploration.md)
-* [Synthesise](design-phases/platform-synthesis.md)
-* [Develop](design-phases/platform-development.md)
+* [Explore](design-phases/explore.md)
+* [Synthesise](design-phases/synthesise/README.md)
+  * [Opportunity](design-phases/synthesise/opportunity.md)
+  * [Experiences](design-phases/synthesise/experiences.md)
+  * [Interactions](design-phases/synthesise/interactions.md)
+  * [Services](design-phases/synthesise/services.md)
+  * [Sustainability](design-phases/synthesise/sustainability.md)
+* [Develop](design-phases/develop.md)
 
 ## Design Artefacts
 
