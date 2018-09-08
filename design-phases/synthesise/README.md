@@ -1,19 +1,19 @@
 ---
 description: >-
-  Synthesise actionable insights from the data gathered. Identify reoccurring
-  problems, expose unexpressed needs and uncover sought after convenience.
-  Capture and prioritise these in a platform model.
+  Identify reoccurring problems, expose unexpressed needs and uncover sought
+  after convenience. Capture, connect and frame these provocative statements of
+  human behaviour.
 ---
 
 # Synthesise
 
 The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. In contrast, platforms shift the control of value creation towards the [participants](../../appendix/glossary.md#p). It's them that are solving problems in self-organised and self-optimised interactions. Platform designers cannot predict nor prescribe such interactions. They can only set the interfaces, processes and conditions for interactions to happen. 
 
-Well-designed interfaces and processes tend to lead to particular types of outcomes. A _platform model_ balances platform intent and platform structure. It captures how the platform enables and empowers participants to act towards intended outcomes. At its core, the model lays out the platform's mechanisms of value creation, distribution and compensation.
+Well-designed interfaces and processes tend to lead to particular types of outcomes. A _platform model_ connects platform intent and platform structure. It captures how the platform enables and incentivises participants to act towards intended outcomes. At its core, the model lays out the platform's mechanisms of value creation, distribution and compensation.
 
 A platform model is more layered and convoluted than a [conventional business model](https://strategyzer.com/canvas/business-model-canvas). To add as little cognitive load as possible, FAST modularises model construction. Each module synthesis a single well-defined concern of a platform’s design:
 
-![FAST Platform Generator](../../.gitbook/assets/fast-model-5gears-75.jpg)
+![FAST Platform Synthesiser](../../.gitbook/assets/fast-model-5gears-75.jpg)
 
 * \*\*\*\*[**OPPORTUNITY**](opportunity.md) ****— What are the opportunities for [ecosystem mobilisation](../../appendix/glossary.md#e) given the observed trends and forces? What are [entities](../../appendix/glossary.md#e)' assets and capabilities for participation in these dynamics?
 * \*\*\*\*[**EXPERIENCES**](experiences.md) — What are the [roles](../../appendix/glossary.md#p) played in the opportunity for mobilisation? What experience gains help them meet performance pressures, achieve life goals or generate convenience?
