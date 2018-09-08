@@ -1,8 +1,8 @@
 ---
 description: >-
   Identify reoccurring problems, expose unexpressed needs and uncover sought
-  after convenience. Capture, connect and frame these provocative statements of
-  human behaviour.
+  after convenience. Capture, connect and frame these as provocative statements
+  of human behaviour.
 ---
 
 # Synthesise
@@ -21,7 +21,7 @@ A platform model is more layered and convoluted than a [conventional business mo
 * \*\*\*\*[**SERVICES**](services.md) — What are the tools, processes, data and systems that enable the interactions at the envisioned scale, scope and speed? What are the interfaces, rules and policies that govern their use?
 * \*\*\*\*[**SUSTAINABILITY**](sustainability.md) — What operating model does the platform need to enable and empower the participants—now and over time? What kind of pull compels the participants to join and interact?
 
-
+The three centre modules each match an individual layer of the [TRIE platform design framework](http://platformed.info/the-trie-framework-platforms/). They also fit the [MDA game design framework](http://www.cs.northwestern.edu/~hunicke/MDA.pdf) well. To both frameworks, the _Opportunity_ module adds the [platform narrative](../../appendix/glossary.md#p) as context for the design effort. Likewise, the _Sustainability_ module weaves the impact of [ecosystem emergence](../../appendix/glossary.md#e) into the design.
 
 
 
