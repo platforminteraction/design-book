@@ -1,8 +1,8 @@
 # Phases
 
-Design Thinking draws from the designer's toolbox for non-typical design contexts, like business strategy or social innovation. As an approach to innovation, it combines [_exploring problems_, _building empathy_ and _prototyping solutions_](http://www.jonkolko.com/writingDesignThinking.php)_._ This combination maps well to the challenges in platforming:
+To design is to value the right question more than the right answer to the wrong question. [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking) draws from the designer's toolbox for non-typical design contexts, like business strategy or social innovation. As an approach to innovation, it combines [_exploring problems_, _building empathy_ and _prototyping solutions_](http://www.jonkolko.com/writingDesignThinking.php)_._ This combination maps well to the challenges in platforming:
 
-![FAST Design Phases](../.gitbook/assets/fast-model-tris-rounded-70.jpg)
+![FAST Design Phases](../.gitbook/assets/fast-model-tris-rounded%20%281%29.jpg)
 
 * \*\*\*\*[**EXPLORE**](../design-phases/explore.md) the ecosystem to design for. The people, organisations and things acting in context, and the trends and forces as they surface in that context. Gather data without judgement and build understanding.
 * \*\*\*\*[**SYNTHESISE**](../design-phases/synthesise/) actionable insights from the data gathered. Identify reoccurring problems, expose unexpressed needs and uncover sought after convenience. Capture and prioritise these in a platform model.
