@@ -29,7 +29,7 @@ The three centre modules match well with the [TRIE platform design framework](ht
 | **Interactions** | Interaction | Dynamics |
 | **Experiences** | Experience | Aesthetics |
 
-There is important interplay between these modules—as is between the frameworks' layers. Design decisions on services impact experiences and understanding experiences impacts such design decisions. That's why, together, the modules generate a dynamic model and not a static plan: the flow between the parts is as important as each part in itself.
+Both frameworks emphasise the interplay between layers. Inside-out, design decisions on services impact the interactions and the experiences they enable. Outside-in, understanding experiences lays out the interactions and the services they need. This is why, together, the modules generate a dynamic model and not a static plan: the flow between the parts is as important as each part in itself.
 
 The two outer modules expand on TRIE and MDA by weaving environmental change and [ecosystem emergence](../../appendix/glossary.md#e) into the design effort.
 
