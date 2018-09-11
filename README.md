@@ -4,9 +4,9 @@ description: Draft 9
 
 # Preface
 
-FAST is a framework for [platforming](appendix/glossary.md#p). It pairs exploration of platforming opportunities with their development into scalable businesses.
+FAST is a framework for [platforming](appendix/glossary.md#platforming). It pairs exploration of platforming opportunities with their development into scalable businesses.
 
-There is no shortage in publications on [platforms](appendix/glossary.md#p) and their socio-economic impact. While these for sure help in understanding why and what of platforms, how to build and evolve one is much less covered.
+There is no shortage in publications on [platforms](appendix/glossary.md#platform) and their socio-economic impact. While these for sure help in understanding why and what of platforms, how to build and evolve one is much less covered.
 
 FAST addresses these concerns in an iterative process of platforming. It'll take you from exploring a fuzzy hunch of opportunity all the way to running a scaled platform business—and back.
 

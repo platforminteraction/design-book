@@ -7,7 +7,7 @@ description: >-
 
 # Synthesise
 
-The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. In contrast, platforms shift the control of value creation towards the [participants](../../appendix/glossary.md#p). It's them that are solving problems in self-organised and self-optimised interactions. Platform designers cannot predict nor prescribe such interactions. They can only set the interfaces, processes and conditions for interactions to happen. 
+The design of products and services is an activity of experts who work as problem solvers and prescribe the value process of value creation. In contrast, platforms shift the control of value creation towards the [participants](../../appendix/glossary.md#platform-participant). It's them that are solving problems in self-organised and self-optimised interactions. Platform designers cannot predict nor prescribe such interactions. They can only set the interfaces, processes and conditions for interactions to happen. 
 
 Well-designed interfaces and processes tend to lead to particular types of outcomes. A _platform model_ connects platform intent and platform structure. It captures how the platform enables and incentivises participants to act towards intended outcomes. At its core, the model lays out the platform's mechanisms of value creation, distribution and compensation.
 
@@ -15,8 +15,8 @@ A platform model is more layered and convoluted than a [conventional business mo
 
 ![FAST Platform Synthesiser](../../.gitbook/assets/fast-model-5gears-75.jpg)
 
-* \*\*\*\*[**OPPORTUNITY**](opportunity.md) ****— What are the opportunities for [ecosystem mobilisation](../../appendix/glossary.md#e) given the observed trends and forces? What are [entities](../../appendix/glossary.md#e)' assets and capabilities for participation in these dynamics?
-* \*\*\*\*[**EXPERIENCES**](experiences.md) — What are the [roles](../../appendix/glossary.md#p) played in the opportunity for mobilisation? What experience gains help them meet performance pressures, achieve life goals or generate convenience?
+* \*\*\*\*[**OPPORTUNITY**](opportunity.md) ****— What are the opportunities for [ecosystem mobilisation](../../appendix/glossary.md#ecosystem-mobilisation) given the observed trends and forces? What are [entities](../../appendix/glossary.md#entity)' assets and capabilities for participation in these dynamics?
+* \*\*\*\*[**EXPERIENCES**](experiences.md) — What are the [roles](../../appendix/glossary.md#platform-role) played in the opportunity for mobilisation? What experience gains help them meet performance pressures, achieve life goals or generate convenience?
 * \*\*\*\*[**INTERACTIONS**](interactions.md) — What are the interactions underpinning these experiences? What are the resources leveraged, what is the value exchanged, and what are the contexts and channels of exchange?
 * \*\*\*\*[**SERVICES**](services.md) — What are the tools, processes, data and systems that enable the interactions at the envisioned scale, scope and speed? What are the interfaces, rules and policies that govern their use?
 * \*\*\*\*[**SUSTAINABILITY**](sustainability.md) — What operating model does the platform need to enable and empower the participants—now and over time? What kind of pull compels the participants to join and interact?
@@ -31,7 +31,7 @@ The three centre modules match well with the [TRIE platform design framework](ht
 
 Both frameworks emphasise the interplay between layers. Inside-out, design decisions on services impact the interactions and the experiences they enable. Outside-in, understanding experiences lays out the interactions and the services they need. This is why, together, the modules generate a dynamic model and not a static plan: the flow between the parts is as important as each part in itself.
 
-The two outer modules expand on TRIE and MDA by weaving environmental change and [ecosystem emergence](../../appendix/glossary.md#e) into the design effort.
+The two outer modules expand on TRIE and MDA by weaving environmental change and [ecosystem emergence](../../appendix/glossary.md#ecosystem-emergence) into the design effort.
 
 
 
